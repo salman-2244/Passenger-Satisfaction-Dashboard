@@ -1,0 +1,273 @@
+/* Main background adjustments for overall padding */
+.Main-background {
+    background-color: #f5f5f5;
+    height: auto;
+    width: 100%;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+
+p{
+margin-bottom: 0rem;
+}
+
+/* Header styles */
+.header {
+    height: 60px;
+    background-color: #1C4E80;
+    font-size: 24px;
+    font-weight: bold;
+    padding-left: 25px;
+    padding-top: 10px;
+    letter-spacing: 0.8px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+/* Button base styling with adjusted border settings */
+.w-100 {
+    width: 100%;
+    padding: 0.75rem 1.25rem;
+    transition: all 0.3s ease;
+    background-color: #1C4E80 !important;
+    color: white !important;
+    border: 3px solid #7E909A !important; 
+}
+
+/* Hover and focus styles for buttons */
+.w-100:hover, .w-100:focus {
+    background-color: #0091D5 !important;
+    color: white !important;
+    border-color: #007CBB !important;
+    opacity: 1;
+}
+
+/* Flex container for vertical spacing and centering */
+.d-flex.flex-column.justify-content-around {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 20px;
+    border-radius: 15px;
+    border: 2px solid #7E909A;
+    padding: 10px;
+    background-color: white;
+   /* height: 100%;  /* Ensuring full height for matching sizes */
+}
+
+/* Additional styles for button containers */
+.d-flex.justify-content-center.mb-3 {
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+/* Graph container styling adjusted for height and bottom alignment */
+#graph-container {
+    border: 2px solid #7E909A;
+    padding: 5px;
+    margin-top: 20px;
+    border-radius: 15px;
+    height: calc(100% - 20px);  /* Adjust height taking into account margin-top */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;  /* Helps push content to align at bottom */
+    background-color: white;
+}
+
+
+
+
+/*2nd
+
+
+/* Styles for the slider container */
+#slider-container {
+    border: 2px solid #7E909A; /* Adds a black border around the slider */
+    background-color: white; /* Sets background color to white */
+    margin-top: 20px; /* Adds a top margin */
+    border-radius: 15px;
+    padding-bottom: 50px;
+    
+}
+
+/* Styles for the second column containing buttons and text */
+.box-container {
+    margin-top: 20px; /* Adds a top margin to the container for content boxes */
+    
+
+}
+
+/* Additional individual content box styles (if needed) */
+.content-box {
+    border-radius: 5px; /* Optional: adds rounded corners to the content boxes */
+    padding: 10px; /* Optional: adds padding inside each content box */
+    border: 2px solid #7E909A; /* Adds a black border around the slider */
+    border-radius: 15px;
+}
+
+
+/* Slider track color before the thumb */
+.rc-slider-track {
+    background-color: #0091D5 !important;
+    
+
+}
+
+/* Slider track color after the thumb (if needed) */
+.rc-slider-rail {
+    background-color: #ccc; /* Example: a grey color */
+
+}
+
+/* Slider thumb color */
+.rc-slider-handle {
+    background-color: #0091D5 !important;
+    border: 2px solid white; /* Adds a white border to the thumb */
+    padding: 5px;
+}
+
+
+
+.rc-slider-mark-text.rc-slider-mark-text-active { 
+        transform: translateX(0%) !important;
+    }
+
+
+
+
+.rc-slider-mark-text {
+    transform: translateX(-100%) !important;
+    /* left: 90% !important; */
+}        
+
+
+
+
+.heading {
+    margin-bottom: 40px;
+    padding-top: 10px;
+    text-align: center;
+
+}
+
+.headings{
+    margin-left: 10px;
+    font-size: 24px;
+    padding: 10px;
+
+}
+
+
+
+.accuracy-display {
+    color: white;           /* Sets the text color to white */
+    font-size: 24px;        /* Sets the font size to 24px */
+    justify-content: center;
+    display: flex;
+
+}
+
+
+
+
+/* Styles for the main row */
+#main-row {
+    margin-top: 15px;  /* Adds top margin to the whole row */
+}
+
+/* Styles for the graph column */
+#graph-col {
+    border: 2px solid #7E909A; /* Adds a black border around the slider */
+    border-radius: 15px;  /* Top margin for space above the graph */
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding-right: 20px;
+    padding-left: 20px;
+
+}
+
+/* Styles for the button column */
+#button-col {
+    border: 2px solid #7E909A; /* Adds a black border around the slider */
+    border-radius: 15px;  /* Top mar;  /* Top margin for space above the buttons */
+}
+/* Enhanced CSS for graph containers */
+.confusion-roc {
+    border: 2px solid #7E909A;
+    border-radius: 15px;
+    margin: 10px;  /* Adds margin around the graphs for better visibility of borders */
+    padding: 5px;  /* Remove padding inside the container if there's any */
+    box-sizing: border-box; /* Ensures that padding and borders are included in the width and height */
+}
+
+
+/* assets/style.css */
+div.graphs-style {
+    border: 2px solid #7E909A !important;
+    border-radius: 15px !important;
+    padding: 5px !important;
+    margin-bottom: 20px !important;
+}
+
+
+
+
+
+
+.footer {
+    background-color: #1C4E80;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.list-items {
+    padding: 1% 10%;
+}
+
+.list-items ul {
+    padding-top: 2%;
+    margin-left: 10%;
+}
+
+.list-items li a {
+    list-style: none;
+}
+
+.list-items li {
+    display: inline;
+    padding: 4%;
+}
+
+.list-items a:hover {
+    text-decoration: none;
+    background-color: none;
+}
+
+.list-items img {
+    width: 4%;
+}
+
+.list-items img:hover {
+    background-color: white;
+    border-radius: 50%;
+}
+
+.empty-box{
+    /* background-color: #2f0452; */
+    height: 30px;
+    color: white;
+}
+
+
+#comp-graph {
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 2px solid #7E909A !important;
+    border-radius: 15px !important;
+    padding: 5px !important;
+    margin-bottom: 20px !important;
+}
