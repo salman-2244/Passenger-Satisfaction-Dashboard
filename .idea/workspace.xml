@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b0bcb7f-a29c-4a14-8d77-d17d9a3f5196" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Thesis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/In-Excel/~$train.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_PreProcessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Visualization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feature_Importance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML_Models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Train_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gmail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/linkedIn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/ANN_model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/feature_importance.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/history.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/scaler.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_Data_PreProcessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_Data_Visualization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_ML_Models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_train_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2gClZyUka9dxa0ksmWadVfJEVeh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for test_Data_PreProcessing.TestDataPreProcessing.test_CheckFileExistence.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Data_PreProcessing.TestDataPreProcessing.test_process_columns.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Data_PreProcessing.test_CheckFileExistence_missing_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Data_PreProcessing.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dassh.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Data_PreProcessing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Data_Visualization.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ML_Models.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Neural_network.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Trying_new_neural_network_feature.executor&quot;: &quot;Run&quot;,
+    &quot;Python.feature_importance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.utils.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Thesis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b0bcb7f-a29c-4a14-8d77-d17d9a3f5196" name="Changes" comment="" />
+      <created>1715209500104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715209500104</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
